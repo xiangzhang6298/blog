@@ -14,7 +14,6 @@ public interface AttachVoMapper {
 
     int deleteByPrimaryKey(Integer id);
 
-
     int insert(AttachVo record);
 
     int insertSelective(AttachVo record);
