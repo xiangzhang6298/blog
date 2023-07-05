@@ -86,7 +86,6 @@
             <version>2.5</version>
         </dependency>
         <!-- End: log4j2 -->
-
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-websocket</artifactId>
